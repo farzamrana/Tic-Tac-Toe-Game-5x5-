@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game (5x5)
+# Tic-Tac-Toe Game (5x5) React.js
 
 A modern and stylish Tic-Tac-Toe game built with React and Material-UI. This game features a 5x5 grid and includes animations for a polished user experience. 
 
@@ -19,7 +19,7 @@ This Tic-Tac-Toe game is designed to provide a fun and interactive experience. I
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/tic-tac-toe-5x5.git
+    git clone https://github.com/farzamrana/tic-tac-toe-5x5.git
     ```
 2. Navigate to the project directory:
     ```bash
